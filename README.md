@@ -1,4 +1,4 @@
-# Events_App
+# Events_App - MERN stack with Authentication
 
 #### Make sure client(port 3000) and server(port 8080) both are running simultaneously to run this project.
 
